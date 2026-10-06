@@ -1,4 +1,4 @@
-# Sistema de Controle de Estoque (Hortifruti) 🥬🍎
+# Sistema de Controle de Estoque 📦
 
 Implementação de um sistema de gerenciamento de estoque em **C** utilizando **Listas Encadeadas Dinâmicas** com nó cabeça, desenvolvido para uma avaliação de Linguagem de Programação I (LP1).
 
